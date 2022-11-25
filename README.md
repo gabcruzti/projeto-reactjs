@@ -6,7 +6,7 @@
 
 Turma Online 20 - Todas em Tech  | Front-end | Semana 15 | 2022 | { Profa } Simara Conceição
 
-# Conteúdo
+# Aprendizado neste projeto:
 
 | Ferramenta | Descrição |
 | --- | --- |
