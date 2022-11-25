@@ -1,0 +1,23 @@
+h4.divTitle {
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: 4px;
+    padding: 2rem;
+    color: rgb(56, 56, 56);
+    text-align: center;
+}
+
+.container {
+    width: 40%;
+    margin-left: 25rem;
+    padding: .5rem;
+}
+
+.repos a {
+    display: flex;
+    background-color: #686AAC;
+    border-radius: 8px;
+    padding: 1rem;
+    color: #fff;
+    text-decoration: none;
+}

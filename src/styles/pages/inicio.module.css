@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.divContainer {
+    padding: 3rem;
+    justify-content: center;
+
+}
+
+.divTitle {
+    font-size: 1.3rem;
+    font-weight: 800;
+    letter-spacing: 4px;
+    text-align: center;
+    padding: 1.5rem;
+    color: rgb(56, 56, 56);
+
+}
+
+.imageContainer {
+    display: block;
+    margin: auto;
+    width: 60%;
+    height: 250px;
+}
+
+p {
+    text-align: center;
+
+}

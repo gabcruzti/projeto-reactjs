@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;       
+}
+
+.divContainer{
+    padding: 4rem;
+    justify-content: center;
+    align-items: center;     
+}
+
+.divTitle{
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: 4px;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    text-align: center;
+
+    color: rgb(56, 56, 56);
+}
+
+.meImg {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
